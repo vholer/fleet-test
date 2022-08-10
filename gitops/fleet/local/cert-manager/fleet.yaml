@@ -1,3 +1,4 @@
+defaultNamespace: cert-manager
 namespace: cert-manager
 
 helm:
